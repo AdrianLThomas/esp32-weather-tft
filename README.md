@@ -8,10 +8,11 @@ I used this one from the manufacturer as the version Windows update provides did
 https://www.wch.cn/downloads/CH341SER_ZIP.html
 
 ## Install graphics library
-TFT_eSPI provides us with all the good stuff and more, just like Adafruit does for Arduino
+TFT_eSPI provides us with all the good stuff and more, just like Adafruit does for Arduino.
+
 [TFT_eSPI Library](https://github.com/Bodmer/TFT_eSPI#8-bit-parallel-support)
 
-Easiest way to download it is via the Arduino IDE.
+But, the easiest way to download it is via the Arduino IDE.
 
 ## Soldering
 As the pin layout of the board is slightly different (exposes analog pins) to the Arduino, you need to do a bit of soldering.
