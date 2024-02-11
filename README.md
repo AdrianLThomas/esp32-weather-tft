@@ -26,6 +26,8 @@ Due to the aforementioned modification, you also need to modify the graphics lib
 Edit: `C:\Users\%username%\Documents\Arduino\libraries\TFT_eSPI\User_Setup_Select.h` (path varies per system)
 and uncomment: `#include <User_Setups/Setup14_ILI9341_Parallel.h>  // Setup file for the ESP32 with parallel bus TFT`
 
+As long as you stuck soldered the pins mentioned previously, this will now use the correct pins for the screen.
+
 # Software Setup
 TODO: This repo!
 
