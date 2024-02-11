@@ -1,4 +1,7 @@
 # ESP32 TFT Weather
+Assumptions:
+- You've already got your IDE configured to work with the ESP32. If not, do this first.
+
 Hardware Required:
 - ESP32 (Arduino UNO style board so it is compatible with the shield). I bought this [Hailege UNO R32](https://www.amazon.co.uk/gp/product/B07XGGMK3F/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) one that is based on a Wesmos R32.
 
